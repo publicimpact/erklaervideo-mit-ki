@@ -1,4 +1,6 @@
-# Making-of: Macht Höhe fitter?
+# Erklärvideo mit KI
+
+Making-of der Folge „Macht Höhe fitter?“ und ein Skill, mit dem du so ein Video zu deinem eigenen Thema baust.
 
 <!-- VIDEO -->
 <p align="center"><img src="assets/cover.jpg" alt="Cover der Folge: Figur mit Sauerstoffmaske, Titel Macht Höhe fitter?" width="300"></p>
@@ -122,13 +124,13 @@ Higgsfield gesamt laut Kontostand vor den ersten Tests und nach dem Cover. Preis
 
 ## Selbst bauen
 
-- Als Skill für Claude Code und andere Agenten: [erklaerfolge](https://github.com/publicimpact/skills/tree/main/skills/erklaerfolge) im Repository [publicimpact/skills](https://github.com/publicimpact/skills)
+- Als Skill für Claude Code und andere Agenten: [skills/erklaervideo](skills/erklaervideo/), installieren mit `npx skills add publicimpact/erklaervideo-mit-ki`
 - Als Text zum Weitergeben an deine KI: [prompts/anleitung-fuer-die-ki.md](prompts/anleitung-fuer-die-ki.md)
 - Als PDF: [anleitung.pdf](anleitung.pdf)
 
 Das echte Material aus Iron Summit liegt nicht in diesem Repository; die PDF zeigt davon nur kleine Ausschnitte als Beispiel.
 
-Lizenz: Texte und Prompts unter CC BY 4.0, siehe [LICENSE](LICENSE) und [NOTICE.md](NOTICE.md). Video und Bilder der Folge nur zum Ansehen.
+Lizenz: Texte, Prompts und Skill unter CC BY 4.0, siehe [LICENSE](LICENSE) und [NOTICE.md](NOTICE.md). Video und Bilder der Folge nur zum Ansehen.
 
 ---
 
