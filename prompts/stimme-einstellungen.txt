@@ -1,0 +1,11 @@
+Stimme bei ElevenLabs, ganzer Sprechtext (sprechtext.txt) in einem Durchgang, mit Zeitstempeln (with-timestamps)
+
+Modell: eleven_v4
+Anweisung am Textanfang: [soft-spoken, calm, intimate narration, low energy, steady pace]
+stability: 0.9
+similarity_boost: 0.8
+style: 0
+speed: 0.95
+
+Zahlen im Sprechtext ausgeschrieben, in Schrift und Untertitel als Ziffern.
+Vorher drei Anweisungen an denselben zwei Sätzen testen und vergleichen (Tonhöhe, Gleichmaß, Pausen), erst dann die ganze Folge.
