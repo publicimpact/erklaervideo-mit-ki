@@ -58,4 +58,3 @@ Jede Zahl braucht eine Quelle: Studie, offizielle Seite oder Originalaufnahme mi
 8. Musik, Effekte, Mischung.
 9. Prüfen: Transkript gegen Skript, Einzelbild an jeder Zahl, auf dem Handy ansehen.
 
-Richtwerte bei Higgsfield, Stand 30.10.2026: ein Startbild mit GPT Image 2.5 kostet 0,5 Credits, ein 5-Sekunden-Clip mit Wan 3.0 Prime in 720p 15 Credits.

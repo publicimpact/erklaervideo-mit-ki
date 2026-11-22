@@ -5,7 +5,7 @@ Making-of der Folge „Macht Höhe fitter?“ und ein Skill, mit dem du so ein V
 <!-- VIDEO -->
 <p align="center"><img src="assets/cover.jpg" alt="Cover der Folge: Figur mit Sauerstoffmaske, Titel Macht Höhe fitter?" width="300"></p>
 
-Eine Erklärfolge im Hochformat. Die Frage: Was passiert mit dem Körper, wenn man auf über 4.000 Metern trainiert? Eine Figur ohne Gesicht erklärt, echtes Material aus der Serie Iron Summit (Paramount+, 2023) beweist. Hier steht, wie die Folge entstanden ist: Ablauf, Prompts, Werkzeuge, Kosten und was wir dabei gelernt haben.
+Eine Erklärfolge im Hochformat. Die Frage: Was passiert mit dem Körper, wenn man auf über 4.000 Metern trainiert? Eine Figur ohne Gesicht erklärt, echtes Material aus der Serie Iron Summit (Paramount+, 2023) beweist. Hier steht, wie die Folge entstanden ist: Ablauf, Prompts, Werkzeuge und was wir dabei gelernt haben.
 
 | | |
 |---|---|
@@ -21,7 +21,6 @@ Eine Erklärfolge im Hochformat. Die Frage: Was passiert mit dem Körper, wenn m
 - [Ablauf](#ablauf)
 - [Aufbau der Folge](#aufbau-der-folge)
 - [Werkzeuge](#werkzeuge)
-- [Kosten](#kosten)
 - [Was wir gelernt haben](#was-wir-gelernt-haben)
 - [Verworfene Wege](#verworfene-wege)
 - [Quellen der Fakten](#quellen-der-fakten)
@@ -68,19 +67,6 @@ Eine Erklärfolge im Hochformat. Die Frage: Was passiert mit dem Körper, wenn m
 | Python mit OpenCV und NumPy | Leuchtkasten, Kreiserkennung an der Uhr, Satzgrenzen im Ton | [opencv.org](https://opencv.org) |
 | Chrome ohne Fenster | Schrift und Grafiken aus HTML als transparente Ebenen | [google.com/chrome](https://www.google.com/chrome/) |
 | Whisper | Transkript der Mischung gegen den Sprechtext | [github.com/openai/whisper](https://github.com/openai/whisper) |
-
-## Kosten
-
-| Posten | Menge | Kosten |
-|---|---|---|
-| Startbilder der Folge, GPT Image 2.5 | 9 | 4,5 Credits |
-| Clips der Folge, Wan 3.0 Prime 720p | 9 (acht mit 5 s, einer mit 6 s) | 138 Credits |
-| Cover, GPT Image 2.5 | 3 Entwürfe, 2 Korrekturen | 1,25 Credits |
-| Tests, Kurztest in 480p, verworfene Bilder | | rund 28 Credits |
-| **Higgsfield gesamt** | | **rund 171 Credits** |
-| ElevenLabs | Stimme, Musik, Effekte | aus dem Abo; Musik und Effekte zusammen rund 1.560 Credits, jeder Durchgang der Stimme rund 1.300 Zeichen |
-
-Higgsfield gesamt laut Kontostand vor den ersten Tests und nach dem Cover. Preise bei Higgsfield, Stand 30.10.2026: ein Startbild mit GPT Image 2.5 kostet 0,5 Credits, ein 5-Sekunden-Clip mit Wan 3.0 Prime in 720p 15 Credits.
 
 ## Was wir gelernt haben
 

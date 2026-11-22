@@ -25,9 +25,8 @@ Je Szene erst ein Startbild, daraus ein Clip. Die Nummer folgt der Reihenfolge i
 | Modell | GPT Image 2.5 (über Higgsfield) | Wan 3.0 Prime (über Higgsfield) |
 | Format | 9:16, Qualität medium, 1k | 9:16, 720p, 5 s (Szene 05: 6 s), ohne Ton |
 | Eingabe | nur Text; Szene 06 zusätzlich ein Referenzbild der Lungenanatomie | das Startbild der Szene |
-| Kosten (Stand 30.10.2026) | 0,5 Credits | 15 Credits je 5 s, 18 Credits für 6 s |
 
-Vor den neun Clips lief ein Kurztest von Szene 01 in 480p für 7,5 Credits.
+Vor den neun Clips lief ein Kurztest von Szene 01 in 480p.
 
 ## Weitere Dateien
 

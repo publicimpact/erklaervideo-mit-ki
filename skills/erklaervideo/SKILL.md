@@ -67,7 +67,7 @@ Die Satzanfänge im Ton an echten Pausen messen, nicht aus der Zeitachse schätz
 
 ## Phase 7: Startbilder und Clips
 
-- Je Szene ein Startbild mit GPT Image 2.5 über Higgsfield, 9:16. Daraus ein 5-Sekunden-Clip mit Wan 3.0 Prime in 720p, ohne Ton. Richtwerte Stand 30.10.2026: 0,5 Credits je Bild, 15 Credits je Clip.
+- Je Szene ein Startbild mit GPT Image 2.5 über Higgsfield, 9:16. Daraus ein 5-Sekunden-Clip mit Wan 3.0 Prime in 720p, ohne Ton.
 - Clip-Prompts beschreiben nur Bewegung und Kamera und enden mit „premium 3D look exactly as in the start image, the mannequins stay faceless and identical. No text, no logos.“
 - Für einen Leuchtkasten im Bild: Startbild mit leerem weißem Leuchtkasten, im Clip-Prompt „the lightbox panel stays completely plain bright white … locked-off static camera“. Den Inhalt setzt später der Code hinein.
 - **Jeden Clip absuchen**, bevor der Nutzer ihn sieht: erfundene Personen, verformte Hände, Objekte, die es nicht geben dürfte. In der Höhe-Folge lief eine vierte Figur ins Bild; sie wurde per Ausschnitt entfernt.
